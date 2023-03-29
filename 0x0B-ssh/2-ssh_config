@@ -1,0 +1,3 @@
+Host 120860-web-01
+PubKeyAuthentication no
+IdentityFile ~/.ssh/school
