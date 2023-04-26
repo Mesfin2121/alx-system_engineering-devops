@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""using the JSONPlaceholder API,
-for a given employee ID, returns information about his/her TODO list progress.
-"""
+"""using the JSONPlaceholder API:
+   returns information about the TODO list progress for a given employee ID"""
 
 import requests
 from sys import argv
